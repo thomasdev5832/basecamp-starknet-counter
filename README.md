@@ -22,9 +22,11 @@ The goal of this project is to provide hands-on experience with Starknet and the
 
 ### Useful links
 
-[The Cairo Book](https://book.cairo-lang.org/)
-[The Starknet Book:](https://book.starknet.io/)
-[Cairo documentation:](https://docs.cairo-lang.org/)
+- [The Cairo Book](https://book.cairo-lang.org/)
+
+- [The Starknet Book:](https://book.starknet.io/)
+
+- [Cairo documentation:](https://docs.cairo-lang.org/)
 
 ##### Wallets:
 - [Argent](https://www.argent.xyz/argent-x/)
